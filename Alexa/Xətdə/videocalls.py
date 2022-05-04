@@ -24,7 +24,7 @@ def choose_markup(videoid, duration, user_id):
         ],
         [
             InlineKeyboardButton(
-                text="🗑 geri axtar",
+                text="🗑 bağla",
                 callback_data=f"forceclose {videoid}|{user_id}",
             )
         ],
@@ -40,7 +40,7 @@ def livestream_markup(quality, videoid, duration, user_id):
                 callback_data=f"LiveStream {quality}|{videoid}|{duration}|{user_id}",
             ),
             InlineKeyboardButton(
-                text="🗑 geri",
+                text="🗑 bağla",
                 callback_data=f"forceclose {videoid}|{user_id}",
             ),
         ],
@@ -66,7 +66,7 @@ def stream_quality_markup(videoid, duration, user_id):
         ],
         [
             InlineKeyboardButton(
-                text="⬅️ ɢᴏ ʙᴀᴄᴋ",
+                text="⬅️ geri qayıt",
                 callback_data=f"gback_list_chose_stream {videoid}|{duration}|{user_id}",
             ),
             InlineKeyboardButton(
