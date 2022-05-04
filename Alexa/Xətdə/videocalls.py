@@ -70,7 +70,7 @@ def stream_quality_markup(videoid, duration, user_id):
                 callback_data=f"gback_list_chose_stream {videoid}|{duration}|{user_id}",
             ),
             InlineKeyboardButton(
-                text="🗑 ᴄʟᴏsᴇ sᴇᴀʀᴄʜ",
+                text="🗑 bağla",
                 callback_data=f"forceclose {videoid}|{user_id}",
             ),
         ],
