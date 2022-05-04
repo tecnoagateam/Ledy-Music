@@ -68,7 +68,7 @@ def download_markup(videoid, user_id):
             InlineKeyboardButton(
                 text="⬅️ ɢᴏ ʙᴀᴄᴋ", callback_data=f"goback {videoid}|{user_id}"
             ),
-            InlineKeyboardButton(text="🗑 təmizlə", callback_data=f"close"),
+            InlineKeyboardButton(text="🗑 bağla", callback_data=f"close"),
         ],
     ]
     return buttons
