@@ -1,15 +1,15 @@
-<h1 align="center"><b>❤️ ALEXA MUSIC BOT ❤️</b></h1>
+<h1 align="center"><b>❤️ LEDY MUSIC BOT ❤️</b></h1>
 
-<h4 align="center">Alexa A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Telethon...</h4>
+<h4 align="center">Ledy A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Telethon...</h4>
 
-<p align="center"><a href="https://t.me/Dr_Asad_Ali"><img src="https://telegra.ph/file/849b9f8f22403fa1e2f17.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/Tenha055"><img src="https://te.legra.ph/file/de5f70ea7d8fbb6fb2548.jpg" width="400"></a></p>
 
 <p align="center">
-    <a href="https://app.codacy.com/manual/jankarikiduniya/AlexaMusic/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
-    <a href="https://github.com/jankarikiduniya/AlexaMusic"> <img src="https://img.shields.io/github/repo-size/jankarikiduniya/AlexaMusicBot?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/jankarikiduniya/AlexaMusic/commits/prince"> <img src="https://img.shields.io/github/last-commit/jankarikiduniya/AlexaMusic?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/jankarikiduniya/AlexaMusic/issues"> <img src="https://img.shields.io/github/issues/jankarikiduniya/AlexaMusic?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/jankarikiduniya/AlexaMusic/network/members"> <img src="https://img.shields.io/github/forks/jankarikiduniya/AlexaMusic?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
+    <a href="https://app.codacy.com/manual/AzeMusic/Ledy-Music/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
+    <a href="https://github.com/AzeMusic/Ledy-Music"> <img src="https://img.shields.io/github/repo-size/AzeMusic/Ledy-Music?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/AzeMusic/Ledy-Music/commits/prince"> <img src="https://img.shields.io/github/last-commit/AzeMusic/Ledy-Music?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/AzeMusic/Ledy-Musix/issues"> <img src="https://img.shields.io/github/issues/AzeMusic/Ledy-Music?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/AzeMusic/Ledy-Musix/network/members"> <img src="https://img.shields.io/github/forks/AzeMusic/Ledy-Music?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
