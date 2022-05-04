@@ -14,17 +14,17 @@ def choose_markup(videoid, duration, user_id):
     buttons = [
         [
             InlineKeyboardButton(
-                text="🎵 ᴘʟᴀʏ ᴍᴜsɪᴄ",
+                text="🎵 Musiqi oynat",
                 callback_data=f"MusicStream {videoid}|{duration}|{user_id}",
             ),
             InlineKeyboardButton(
-                text="🎥 ᴘʟᴀʏ ᴠɪᴅᴇᴏ",
+                text="🎥 Video oynat",
                 callback_data=f"Choose {videoid}|{duration}|{user_id}",
             ),
         ],
         [
             InlineKeyboardButton(
-                text="🗑 ᴄʟᴏsᴇ sᴇᴀʀᴄʜ",
+                text="🗑 geri axtar",
                 callback_data=f"forceclose {videoid}|{user_id}",
             )
         ],
@@ -36,11 +36,11 @@ def livestream_markup(quality, videoid, duration, user_id):
     buttons = [
         [
             InlineKeyboardButton(
-                text="🎥  sᴛᴀʀᴛ ʟɪᴠᴇ",
+                text="🎥  canlı başlat",
                 callback_data=f"LiveStream {quality}|{videoid}|{duration}|{user_id}",
             ),
             InlineKeyboardButton(
-                text="🗑 ᴄʟᴏsᴇ",
+                text="🗑 geri",
                 callback_data=f"forceclose {videoid}|{user_id}",
             ),
         ],
