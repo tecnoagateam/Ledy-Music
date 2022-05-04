@@ -117,36 +117,36 @@ async def useradd(_, message: Message):
 # A Powerful Music Bot Property Of Rocks Indian Largest Chatting Group
 # Without Credit (Mother Fucker)
 # Rocks © @Dr_Asad_Ali © Rocks
-# Copyright (C) 2021 By @Itz_VeNom_xD 
-# Copyright (C) 2021 By @Dr_Asad_Ali
-# Copyright (C) 2021 By @HarshitSharma361
+# Copyright (C) 2021 By @Tenha055
+# Copyright (C) 2021 By @ruzgar_alican
+# Copyright (C) 2021 By @mrhacker
 
 
 
 @app.on_message(filters.command("start") & filters.private & ~filters.edited)
 async def useradd(_, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/4c7025b0b94c0d2b5f94a.jpg",
+        photo=f"https://te.legra.ph/file/de5f70ea7d8fbb6fb2548.jpg",
         caption=f"""**━━━━━━━━━━━━━━━━━━━━━━━━
-💥 ʜᴇʟʟᴏ, ɪ ᴀᴍ ᴀʟᴇxᴀ sᴜᴘᴇʀ ғᴀsᴛ ᴠᴄ ᴘʟᴀʏᴇʀ
-ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs ᴛᴏ ᴘʟᴀʏ ᴀᴜᴅɪᴏ ᴀɴᴅ ᴠɪᴅᴇᴏ sᴏɴɢ...
+👋 Salam, Mən Ledy Group Səsli Söhbət Music bot.
+Səsli chat-da musiqi və video yayımlıya bilərəm ✨ 
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ ᴄʀᴇᴀᴛᴏʀ › : [ᴀsᴀᴅ ᴀʟɪ](https://t.me/Dr_Asad_Ali)
-┣★ ᴜᴘᴅᴀᴛᴇs › : [ᴀʟᴇxᴀ sᴇʀᴠᴇʀ](https://t.me/AsadSupport)
-┣★ sᴜᴘᴘᴏʀᴛ › : [ᴀʟᴇxᴀ ᴄʜᴀᴛ](https://t.me/Alexa_Help)
-┣★ ʀᴏᴄᴋsᴏᴘ › : [ɴᴇᴛᴡᴏʀᴋ](https://t.me/Shayri_Music_Lovers)
-┣★ ʙʀᴏᴛʜᴇʀ › : [ᴍʏ ʙʀᴏ](https://t.me/HarshitSharma361)
-┣★ ʜᴇʟᴘ › : ɴᴇᴇᴅ ʜᴇʟᴘ ʀᴜɴ /help
+┣★ Owner › : [MR AĞA](https://t.me/Tenha055)
+┣★ Support › : [BİLİM ADAM]](https://t.me/ruzgar_alican)
+┣★ LEDY BOTS › : [LEDY ROBOT](https://t.me/ledyplaylist)
+┣★ Support Chat › : [MR BOTS](https://t.me/SOQrup)
+┣★ UPDATES › : [MR • LEDY](https://t.me/ledyplaylist)
+┣★ HELP › : əmrler üçün /help
 ┗━━━━━━━━━━━━━━━━━┛
 
-💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ
-ᴅᴍ ᴛᴏ ᴍʏ [ʟᴇɢᴇɴᴅ ᴏᴡɴᴇʀ](https://t.me/Dr_Asad_Ali) ...
+
+✦ Təklif və İş birliyi üçün [MR AĞA](https://t.me/Tenha055) ...
 ━━━━━━━━━━━━━━━━━━━━━━━━**""",
    reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "➕ ❰ ᴀᴅᴅ ᴀʟᴇxᴀ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ❱ ➕", url=f"https://t.me/Asad_Music_Bot?startgroup=true")
+                        "✨ Məni Qrupa Əlavə et ✨", url=f"https://t.me/SSmusicLedy_bot?startgroup=true")
                 ]
                 
            ]
@@ -156,13 +156,13 @@ async def useradd(_, message: Message):
 @app.on_message(filters.command(["alive", "reload", "alexa"]) & filters.private & ~filters.group & ~filters.edited)
 async def useradd(_, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/4c7025b0b94c0d2b5f94a.jpg",
+        photo=f"https://te.legra.ph/file/de5f70ea7d8fbb6fb2548.jpg",
         caption=f"""""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "💥 ᴊᴏɪɴ ʜᴇʀᴇ ᴀɴᴅ sᴜᴘᴘᴏʀᴛ 💞", url=f"https://t.me/Shayri_Music_Lovers")
+                        "🛠️ MR AĞA BOTS SUPPORT 🛠️", url=f"https://t.me/SOQrup")
                 ]
             ]
         ),
@@ -172,13 +172,13 @@ async def useradd(_, message: Message):
 @app.on_message(filters.command(["repo", "source"]) & filters.private & ~filters.group & ~filters.edited)
 async def useradd(_, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/4c7025b0b94c0d2b5f94a.jpg",
+        photo=f"https://te.legra.ph/file/de5f70ea7d8fbb6fb2548.jpg",
         caption=f"""""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "💥 ᴄʟɪᴄᴋ ᴍᴇ ᴛᴏ ɢᴇᴛ ʀᴇᴘᴏ 💞", url=f"https://t.me/Dr_Asad_Ali")
+                        "😅Bəlkə verər😅", url=f"https://t.me/Tenha055")
                 ]
             ]
         ),
