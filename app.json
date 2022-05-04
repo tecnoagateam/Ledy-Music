@@ -1,7 +1,7 @@
 {
-  "name": "Alexa Music",
-  "description": "ᴀʟᴇxᴀ ɪs ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴜsɪᴄ ʙᴏᴛ ᴡɪᴛʜ ᴘʀᴏᴘᴇʀ ғᴜɴᴄᴛɪᴏɴs ᴡʀɪᴛᴛᴇɴ ɪɴ ᴘʏᴛʜᴏɴ ᴡɪᴛʜ ᴘʏʀᴏɢʀᴀᴍ ᴀɴᴅ ᴘʏ-ᴛɢᴄᴀʟʟs.",
-  "logo": "https://telegra.ph/file/83a547c997953a4d75d87.jpg",
+  "name": "Ledy Music",
+  "description": "telegram səsli chat-da Musiqi və video yayınlıya bilən bot.",
+  "logo": "https://te.legra.ph/file/de5f70ea7d8fbb6fb2548.jpg",
   "keywords": [
   "python3",
   "telegram"
@@ -35,22 +35,22 @@
     },
     "MUSIC_BOT_NAME": {
       "description": "A name for your Music Bot.",
-      "value": "Asad_Music_Bot",
+      "value": "LedyMusicBot",
       "required": true
     },
     "SUPPORT_CHANNEL": {
       "description": "Support Channel Link if you have any, Leave blank if no support. Your link must start with https://t.me/",
-      "value": "AsadSupport",
+      "value": "Ledyplaylist",
       "required": false
     },
     "SUPPORT_GROUP": {
       "description": "Support Group Link if you have any, Leave blank if no support. Your link must start with https://t.me/",
-      "value": "Shayri_Music_Lovers",
+      "value": "SOQrup",
       "required": false
     },
     "OWNER_ID": {
       "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-      "value": "1342820594",
+      "value": "1924693109",
       "required": true
     },
     "STRING_SESSION1": {
@@ -90,7 +90,7 @@
     },
     "LOG_GROUP_ID": {
       "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Use only Group. Please don't use Channel ID.",
-      "value": "-1001717283097",
+      "value": "",
       "required": true
     },
     "SUDO_USERS": {
@@ -105,7 +105,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "If you dont know this, Leave as it is",
-      "value": "https://github.com/jankarikiduniya/AlexaMusic",
+      "value": "https://github.com/AzeMusic/Ledy-Music",
       "required": true
     },
     "UPSTREAM_BRANCH": {
