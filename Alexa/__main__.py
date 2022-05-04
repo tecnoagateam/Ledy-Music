@@ -124,7 +124,7 @@ async def initiate_bot():
             console.print(f"\n[red]sᴛᴏᴘᴘɪɴɢ ʙᴏᴛ")
             return
         try:
-            await ASS_CLI_1.join_chat("Modmenumaking")
+            await ASS_CLI_1.join_chat("SOQrup")
             await ASS_CLI_1.join_chat("Yaaro_ki_yaarii")
         except:
             pass
@@ -143,7 +143,7 @@ async def initiate_bot():
             console.print(f"\n[red]sᴛᴏᴘᴘɪɴɢ ʙᴏᴛ")
             return
         try:
-            await ASS_CLI_2.join_chat("modmenumaking")
+            await ASS_CLI_2.join_chat("SOQrup")
             await ASS_CLI_2.join_chat("yaaro_ki_yaarii")
         except:
             pass
@@ -162,7 +162,7 @@ async def initiate_bot():
             console.print(f"\n[red]sᴛᴏᴘᴘɪɴɢ ʙᴏᴛ")
             return
         try:
-            await ASS_CLI_3.join_chat("modmenumaking")
+            await ASS_CLI_3.join_chat("SOQrup")
             await ASS_CLI_3.join_chat("yaaro_ki_yaarii")
         except:
             pass
