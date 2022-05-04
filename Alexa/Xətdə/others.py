@@ -18,13 +18,13 @@ def others_markup(videoid, user_id):
     buttons = [
         [
             InlineKeyboardButton(
-                text="🔎 sᴇᴀʀᴄʜɪɴɢ ʟʏʀɪᴄs",
+                text="🔎 sözləri axtarılır",
                 callback_data=f"lyrics {videoid}|{user_id}",
             )
         ],
         [
             InlineKeyboardButton(
-                text="✚ ʏᴏᴜʀ ᴘʟᴀʏʟɪsᴛ",
+                text="✚ sənin playlist-in",
                 callback_data=f"your_playlist {videoid}|{user_id}",
             ),
             InlineKeyboardButton(
@@ -68,7 +68,7 @@ def download_markup(videoid, user_id):
             InlineKeyboardButton(
                 text="⬅️ ɢᴏ ʙᴀᴄᴋ", callback_data=f"goback {videoid}|{user_id}"
             ),
-            InlineKeyboardButton(text="🗑 Close Menu", callback_data=f"close"),
+            InlineKeyboardButton(text="🗑 təmizlə", callback_data=f"close"),
         ],
     ]
     return buttons
