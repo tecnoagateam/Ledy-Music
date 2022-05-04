@@ -128,8 +128,8 @@ async def useradd(_, message: Message):
     await message.reply_photo(
         photo=f"https://te.legra.ph/file/de5f70ea7d8fbb6fb2548.jpg",
         caption=f"""**━━━━━━━━━━━━━━━━━━━━━━━━
-👋 Salam, Mən Ledy Group Səsli Söhbət Music bot.
-Səsli chat-da musiqi və video yayımlıya bilərəm ✨ 
+👋 Salam, Mən Ledy Səsli Söhbət yayın bot'u.
+Səsli chat-da musiqi və video yayımlıya bilirəm ✨ 
 ┏━━━━━━━━━━━━━━━━━┓
 ┣★ Owner › : [MR AĞA](https://t.me/Tenha055)
 ┣★ Support › : [BİLİM ADAM]](https://t.me/ruzgar_alican)
