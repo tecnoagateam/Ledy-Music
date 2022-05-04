@@ -49,7 +49,7 @@ __HELP__ = """
 /settings 
 - Get Settings button.
 
-- ᴘᴏᴡᴇʀᴅ ʙʏ 😍 ʀᴏᴄᴋs ᴀɴᴅ @SOQrup.
+- ᴘᴏᴡᴇʀᴅ ʙʏ @SOQrup.
 """
 
 
