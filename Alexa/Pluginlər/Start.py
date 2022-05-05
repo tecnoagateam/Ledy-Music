@@ -128,25 +128,22 @@ async def useradd(_, message: Message):
     await message.reply_photo(
         photo=f"https://te.legra.ph/file/de5f70ea7d8fbb6fb2548.jpg",
         caption=f"""**━━━━━━━━━━━━━━━━━━━━━━━━
-👋 Salam, Mən Ledy Səsli Söhbət yayın bot'u.
-Səsli chat-da musiqi və video yayımlıya bilirəm ✨ 
+👋 Salam, xoşgəldin!
+
+🎧 Mən Telegram səsli chat-da Musiqi və Video Yayınlıya Bilərəm.
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ Owner › : [MR AĞA](https://t.me/Tenha055)
-┣★ Support › : [BİLİM ADAM]](https://t.me/ruzgar_alican)
-┣★ LEDY BOTS › : [LEDY ROBOT](https://t.me/ledyplaylist)
-┣★ Support Chat › : [MR BOTS](https://t.me/SOQrup)
-┣★ UPDATES › : [MR • LEDY](https://t.me/ledyplaylist)
-┣★ HELP › : əmrler üçün /help
+┣★ 𝐂𝐫𝐞𝐚𝐭𝐨𝐫 › : [MR AĞA](https://t.me/Tenha055)
+┣★ 𝐋𝐞𝐝𝐲𝐔𝐩 › : [LEYDUP](https://t.me/ledyplaylist)
+┣★ 𝐌𝐑𝐒𝐮𝐩 › : [MRSUPP](https://t.me/SOQrup)
 ┗━━━━━━━━━━━━━━━━━┛
 
-
-✦ Təklif və İş birliyi üçün [MR AĞA](https://t.me/Tenha055) ...
+📚 Əmrlər bölməsi üçün /help əmrinə toxunun.
 ━━━━━━━━━━━━━━━━━━━━━━━━**""",
    reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "✨ Məni Qrupa Əlavə et ✨", url=f"https://t.me/SSmusicLedy_bot?startgroup=true")
+                        "💔 Məni Qrupa Əlavə et 💔", url=f"https://t.me/SSmusicLedy_bot?startgroup=true")
                 ]
                 
            ]
