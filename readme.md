@@ -7,7 +7,7 @@
 <p align="center">
     <a href="https://t.me/SOQrup"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-blue.svg?logo=Telegram"></a>
     <a href="https://github.com/AzeMusic/Ledy-Music"> <img src="https://img.shields.io/github/repo-size/AzeMusic/Ledy-Music?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/AzeMusic/Ledy-Music/commits/prince"> <img src="https://img.shields.io/github/last-commit/AzeMusic?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/AzeMusic/Ledy-Music/commits/prince"> <img src="https://img.shields.io/github/last-commit/AzeMusic/Ledy-Music?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.com/AzeMusic/Ledy-Music/issues"> <img src="https://img.shields.io/github/issues/AzeMusic/Ledy-Music?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.com/AzeMusic/Ledy-Music/network/members"> <img src="https://img.shields.io/github/forks/AzeMusic/Ledy-Music?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
