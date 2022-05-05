@@ -5,7 +5,7 @@
 <p align="center"><a href="https://t.me/Tenha055"><img src="https://te.legra.ph/file/de5f70ea7d8fbb6fb2548.jpg" width="400"></a></p>
 
 <p align="center">
-    <a href="https://t.me/SOQrup"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+    <a href="https://t.me/SOQrup"><img src="https://img.shields.io/blue/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
     <a href="https://github.com/AzeMusic/Ledy-Music"> <img src="https://img.shields.io/github/repo-size/AzeMusic/Ledy-Music?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.com/AzeMusic/Ledy-Music/commits/prince"> <img src="https://img.shields.io/github/last-commit/AzeMusic/Ledy-Music?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.com/AzeMusic/Ledy-Musix/issues"> <img src="https://img.shields.io/github/issues/AzeMusic/Ledy-Music?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
